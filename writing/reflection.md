@@ -2,11 +2,9 @@
 
 edit
 
-## Lab01
-
 ## Name: Add Your Name Here
 
-## Instructions
+## lab1, Instructions
 
 In this practical assignment, you are to add your responses to the questions in blue of the lab. Your reflection should be about a page and contain clear and meaningful language. Please use markdown language to format your reflection piece.
 
